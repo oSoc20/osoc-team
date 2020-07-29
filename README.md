@@ -1,4 +1,4 @@
-# Osoc gh-pages template
+# Osoc team 2020
 A github page template for osoc.
 If you want to use this template, fork it to your /gh-pages branch, break it, fix it, ship it!
 
